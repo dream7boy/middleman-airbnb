@@ -1,0 +1,25 @@
+#team {
+  height: 100vh;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  background-image: linear-gradient(0deg, #fff 50%, #F4F4F4 50%)
+}
+
+#team img {
+  width: 150px;
+  height: 150px;
+}
+
+#team h1 {
+  font-size: 30px;
+}
+
+#team h2 {
+  font-size: 20px;
+}
+
+#team .fa-heart {
+  color: #D23333;
+}
