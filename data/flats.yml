@@ -1,0 +1,15 @@
+flat1:
+  city: 'paris'
+  name: 'sebastien'
+  message: 'Charming room in Montmartre'
+  github_nickname: 'ssaunier'
+flat2:
+  city: 'shanghai'
+  name: 'boris'
+  message: 'Small flat in France'
+  github_nickname: 'papillard'
+flat3:
+  city: 'london'
+  name: 'romain'
+  message: 'Nice flat in Piccadilly'
+  github_nickname: 'tgenaitay'
